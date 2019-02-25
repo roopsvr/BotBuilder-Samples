@@ -199,9 +199,11 @@
     <Content Include="appsettings.json" />
     <Content Include="CognitiveModels\sample.qna" />
     <None Include="packages.config" />
-    <Content Include="QnABot.bot" />
     <Content Include="QnaBot.ruleset" />
     <Content Include="README.md" />
+    <Content Include="QnABot.bot" />
+    <None Include="Properties\PublishProfiles\samplepdfwebappbotservice - Web Deploy.pubxml" />
+    <Content Include="qna-maker.bot" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
